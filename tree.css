@@ -1,0 +1,45 @@
+.fa-folder {
+    color: darkorange;
+  }
+  
+  .fa-file-pdf {
+    color: red;
+  }
+  
+  .fa-file-excel {
+    color: green;
+  }
+  
+  .fa-file-audio {
+    color: blue;
+  }
+  
+  .filename {
+    padding: 5px;
+    color: black;
+    font-size: 16px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: normal;
+  }
+  
+  .hover-over {
+    background-color: #e5e5ff;
+  }
+  
+
+  .container {
+      display: flex;
+      justify-content: space-around;
+  }
+
+  .left-grid {
+      min-height: 500px;
+      min-width: 500px;
+      border: 1px solid green;
+  }
+
+  .right-grid {
+    min-height: 500px;
+    min-width: 500px;
+    border: 1px solid green;
+}
